@@ -173,7 +173,7 @@ export function Footer() {
               />
             </svg>
             <span className="text-white font-semibold text-xl sm:text-2xl">
-              Webstack
+              VOLTMEDIA - ALTUS
             </span>
           </div>
 
